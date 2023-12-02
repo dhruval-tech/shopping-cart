@@ -8,5 +8,5 @@ A shopping cart using React, TypeScript, and Bootstrap
 
 # To run this project
 - Clone this repo into your machine
-- Run `npm i`
+- Run `npm init`
 - Run `npm run build`

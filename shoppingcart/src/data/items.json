@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Book1",
+        "Price": 399,
+        "ImgUrl": "images/book1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Book2",
+        "Price": 99,
+        "ImgUrl": "images/book2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Book3",
+        "Price": 299,
+        "ImgUrl": "images/book3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Book4",
+        "Price": 499,
+        "ImgUrl": "images/book4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Book5",
+        "Price": 199,
+        "ImgUrl": "images/book5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Book6",
+        "Price": 299,
+        "ImgUrl": "images/book6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Book7",
+        "Price": 99,
+        "ImgUrl": "images/book7.jpg"
+    }
+]
